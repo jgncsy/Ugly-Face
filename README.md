@@ -12,7 +12,7 @@ The Project link is here:
 [https://glitch.com/~qweasd1-2560-front-end](https://glitch.com/~qweasd1-2560-front-end)
 
 The github for this project is:
-[https://github.com/qweasd1/2560-final-code](https://github.com/jgncsy/Ugly-Face)
+[https://github.com/jgncsy/2560-final-code](https://github.com/jgncsy/Ugly-Face)
 
 The demo video can be seen here:
 [https://www.youtube.com/watch?v=5YRP-h8iPiU&feature=youtu.be](https://www.youtube.com/watch?v=5YRP-h8iPiU&feature=youtu.be)
